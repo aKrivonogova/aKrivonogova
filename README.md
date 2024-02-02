@@ -1,15 +1,10 @@
 
    <div class="bio">
-        <div class="bio__container">
+        <div align="center">
             <h2 class="bio__title">Hi there 👋 I'm Alina!</h2>
 </div>
 </div>
-<style>
-     .bio__container{
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
+ 
 <!--
 **aKrivonogova/aKrivonogova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
